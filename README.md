@@ -1,3 +1,6 @@
+#Example. Please follow this link
+https://towardsdatascience.com/transcribe-audio-files-with-openais-whisper-e973ae348aa7
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
